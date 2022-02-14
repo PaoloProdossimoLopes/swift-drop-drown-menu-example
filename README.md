@@ -15,7 +15,7 @@
 #  DROP DOWN MENU EXAMPLE
 
 <!-- DESCRIPTION -->
-This project are created for using as template for others repository.
+This project are created for try creating a drop down item for future apps.
 
 
 
